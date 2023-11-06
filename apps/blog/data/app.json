@@ -1,0 +1,19 @@
+{
+    
+    "navi": {
+        "📃 Blog": "/blog/",
+        "👩🏻‍🦰 Users": "/users",
+        "💬 Messages": "/messages"
+    },
+    "blog": {
+        "name": "老范讲故事",
+        "description": "讲述互联网流量的故事",
+        "image": "/blog/public/images/lukefan.png",
+        "blogs":[
+            "pink-hair-was-exposed-online.md",
+            "person-destiny.md",
+            "person-destiny.md"
+        ]
+    }
+
+}

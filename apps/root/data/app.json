@@ -1,0 +1,11 @@
+{
+    "login":{
+        "github": true,
+        "google": true
+    },
+    "navi": {
+        "📃 Blog": "/blog/",
+        "👩🏻‍🦰 Users": "/users",
+        "💬 Messages": "/messages"
+    }
+}
