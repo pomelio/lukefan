@@ -3,7 +3,7 @@ pub_date: 2022-11-07
 ---
 # 冬储大白菜的回忆
 
-![side bar and content](/blog/public/images/cabbage-winter.png)
+![冬储大白菜的记忆](/blog/public/images/cabbage-winter.png)
 
 到了秋冬时节，叶子都黄了，让我想起来我小时候的一个很特殊的经历——冬储大白菜。
 
