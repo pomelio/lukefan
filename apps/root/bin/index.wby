@@ -14,6 +14,8 @@ let app = array.find(apps, |a| => str.starts_with(web_path, '/' + a));
 
 if app {
   dispatch(app, '/index', {});
+} elsif web_path == '/' {  
+  dispatch('blog', '/index', {});
 } elsif web_path == '/login' {
   dispatch(__APP__, '/auth/login', {});
 } elsif web_path == '/user/like' {
