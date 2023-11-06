@@ -1,7 +1,6 @@
 {
     "login":{
-        "github": true,
-        "google": true
+        "github": true
     },
     "navi": {
         "📃 Blog": "/blog/",
